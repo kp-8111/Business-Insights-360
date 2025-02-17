@@ -65,12 +65,12 @@ The **Business Insights 360** dashboard provides a **comprehensive data-driven s
 ---
 
 ## 🚀 Explore the Project Further   
-🔗 **NovyPro Dashboard** – [(https://project.novypro.com/6Ts4ch)]  
+🔗 **NovyPro Dashboard** – https://project.novypro.com/6Ts4ch
 
 A big thanks to **Codebasics, Dhaval Patel, and Hemanand Vadivel** for their **guidance & resources!**  
 
 📩 **Let’s Connect!**  
 📧 Email: kunalpatil8111@gmail.com  
-🔗 LinkedIn: [https://www.linkedin.com/in/kp8111/]  
+🔗 LinkedIn: https://www.linkedin.com/in/kp8111
  
 🚀 **Transforming raw data into actionable insights for smarter business decisions!**  
